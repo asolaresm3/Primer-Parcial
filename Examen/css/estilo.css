@@ -1,0 +1,59 @@
+body {
+    background: #444141;
+   font-family: 'Times New Roman', Times, serif;
+   color: aliceblue;
+   margin: 0;
+}
+
+.Encabezado {
+    padding: 2rem;
+    text-align: center;
+    position: relative;
+    background:  rgba(19, 60, 173, 0.486);
+    margin: 0;
+}
+
+nav {
+    padding: 2rem;
+}
+
+ul {
+    display: inline-flex;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+
+
+img {
+    width: 10%;
+    position: relative;
+}
+
+
+article {
+    padding: 3rem;
+    position: relative;
+    background: rgba(226, 35, 35, 0.486);
+    
+}
+
+aside {
+    padding: 2rem;
+    position: relative;
+    background:  rgba(35, 48, 226, 0.486);
+    display: inline-flex;
+    margin-left: 90%;
+    
+}
+
+footer {
+    padding: 2rem;
+    position: relative;
+    background:  rgba(19, 60, 173, 0.486);
+    text-align: center;
+}
